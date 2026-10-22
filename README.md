@@ -2,6 +2,7 @@
 
 Ứng dụng quản lý công việc (Todo List) xây dựng bằng Next.js. Cho phép thêm, sửa, xóa và đánh dấu hoàn thành công việc. Dữ liệu lấy/gửi tới API backend tại `http://localhost:5000/api/tasks`.
 
+Link video demo: https://drive.google.com/uc?id=1EYSjpgpGNl-AkI14l5pJX-fKXegeZg19&export=download
 ## Chức năng chính
 
 - Thêm công việc (tiêu đề, mô tả không bắt buộc)
